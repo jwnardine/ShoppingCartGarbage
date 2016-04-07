@@ -1,7 +1,7 @@
 
 
 <h2>SHOPPING CART</h2>
-
+<h4 class="red">Cart Total: ${{shoppingCart.total}}</h4>
 {{#each shoppingCart.items as |item|}}
 <hr>
   <h3>{{item.title}}</h3>
@@ -10,4 +10,3 @@
 {{/each}}
 <br>
 <br>
-<h4 class="red">Cart Total: ${{shoppingCart.total}}</h4>

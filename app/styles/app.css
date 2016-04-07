@@ -1,3 +1,20 @@
 .red {
   color: red;
 }
+
+footer {
+  width: 100%;
+  clear: both;
+}
+
+.product-tile {
+  width:45%;
+  margin-right: 0px !important;
+  float: left;
+  padding: 5px;
+  margin: 5px;
+}
+
+body {
+  background-color: cyan;
+}
