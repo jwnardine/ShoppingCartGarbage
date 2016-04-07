@@ -1,4 +1,13 @@
+
+
+<h2>SHOPPING CART</h2>
+
 {{#each shoppingCart.items as |item|}}
-  <li>{{item.title}}</li>
+<hr>
+  <h3>{{item.title}}</h3>
+  <li>${{item.cost}}</li>
   <img src={{item.image}} style="height:200px">
 {{/each}}
+<br>
+<br>
+<h4 class="red">Cart Total: ${{shoppingCart.total}}</h4>
