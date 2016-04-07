@@ -1,0 +1,7 @@
+  <h4>{{product.title}}</h4>
+  <li>{{product.description}}</li>
+  <p><img src={{product.image}} style="height:200px"></p>
+  <li>${{product.cost}}</li>
+<button {{action 'delete' product}}>Delete this product</button>
+{{update-product product=product update="update"}}
+<button {{action 'addToCart' product}}>Add to Cart</button>

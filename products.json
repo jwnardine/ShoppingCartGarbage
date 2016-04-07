@@ -1,0 +1,17 @@
+{ "products": [{
+  "title": "Deluxe red",
+  "image": "http://st.hzcdn.com/simgs/4cd1dd9301def98d_4-9282/contemporary-trash-cans.jpg",
+  "description": "It is red and has a kickopen feature",
+  "cost": 300
+} , {
+  "title": "The Cookie Monster",
+  "image": "http://randommization.com/wp-content/uploads/2011/12/make-things-awesome-by-Timm-Schneiders_2.jpg",
+  "description": "It is only good for throwing away non-used cookies",
+  "cost": 50
+} , {
+  "title": "R2-D2",
+  "image": "http://www.toxel.com/wp-content/uploads/2009/04/trashcans01.jpg",
+  "description": "It is a sarcastic beep booper",
+  "cost": 400
+}]
+}

@@ -1,0 +1,11 @@
+<h1> HI! This is our store.</h1>
+<h3> Products available:</h3>
+<ul>
+  {{#each model as |product|}}
+    {{product-tile product=product update="update" destroyProduct="destroyProduct"}}
+  {{/each}}
+</ul>
+
+{{new-product save2="save3"}}
+
+{{#link-to 'store'}}Store{{/link-to}}
