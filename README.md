@@ -1,7 +1,6 @@
 # Shopping-cart
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+An online garbage can retailer! Feel free to add one of our many garbage cans to your shopping cart. You can even see the cart price total!
 
 ## Prerequisites
 
