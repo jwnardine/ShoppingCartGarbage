@@ -1,4 +1,4 @@
-# Shopping-cart
+# Garbage Can Shopping Cart!
 
 An online garbage can retailer! Feel free to add one of our many garbage cans to your shopping cart. You can even see the cart price total!
 
